@@ -1,4 +1,4 @@
-import offheap._
+import scala.offheap._
 
 @data class Point(x: Int, y: Int)
 
